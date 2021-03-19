@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhu659zhu.gomockgenerate.services
 
+import com.github.zhu659zhu.gomockgenerate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
